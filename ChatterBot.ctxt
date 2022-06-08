@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=ChatterBot
+comment1.params=
+comment1.target=void\ medical()
+comment2.params=
+comment2.target=void\ field()
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+comment4.params=
+comment4.target=void\ arts()
+comment5.params=
+comment5.target=void\ commerce()
+comment6.params=
+comment6.target=void\ engineering()
+numComments=7
