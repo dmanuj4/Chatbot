@@ -12,7 +12,7 @@ import javax.swing.*;
 
 class ChatterBot{
      static String stg;
-     public  static void medical() throws java.net.URISyntaxException
+     public  static void medical() throws java.IOException
     {
         Scanner sc = new Scanner(System.in);
         boolean r = true;
